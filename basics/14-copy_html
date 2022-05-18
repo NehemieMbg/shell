@@ -1,2 +1,2 @@
 #!/bin/bash
-cp /tmp/*.html pwd
+cp pwd/*.html /tmp/
