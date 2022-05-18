@@ -1,2 +1,2 @@
 #!/bin/bash
-target="/tmp/iamafile/"
+file iamafile
