@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd 755 hello
+chomd u+755 hello
