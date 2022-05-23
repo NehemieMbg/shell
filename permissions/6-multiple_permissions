@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd u+755 hello
+chmod u+755 hello
