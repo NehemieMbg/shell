@@ -2,11 +2,13 @@
 #script that display Best School 10x but the L9 display best school then Hi on a new line
 n=0
 
-while [ $n -gt 10 ]
+while [ $n -lt 10 ]
 do
-if [ $9==Hi ]
-then
     echo "Best School"
     n=$(( n+1 ))
-    fi
+if
+    [ $n = 9 ]
+then
+    echo "Hi"
+fi
 done
