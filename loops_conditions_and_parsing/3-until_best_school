@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Sript that displa 10 times Best School
+n=0
+
+until [ $n -ge 10 ]
+do
+    echo "Best School"
+    n=$(( n+1 ))
+done
