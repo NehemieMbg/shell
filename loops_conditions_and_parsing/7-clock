@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#Bash script that display the time for 12h and 59min
+h=0
+m=1
+
+while [ $h -le 12 ]
+do
+    echo "hour=$h"
+    h=$(( n+1 ))
+
+    m=1
+
+
+while [ $m -le 59 ]
+do
+      echo "$m"
+      m=$(( m+1 ))
+done
+done
