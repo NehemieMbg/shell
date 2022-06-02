@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #srcipt that display to infinity and beyond
 
-n=1
 
 while true
       do
