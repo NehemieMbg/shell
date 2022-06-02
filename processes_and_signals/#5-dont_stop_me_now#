@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#kills prebious file process
+
+
+kill

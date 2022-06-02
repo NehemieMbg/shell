@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#kills prebious file process
+
+grep -f "4-to_infinity_and_beyond" | kill "4-to_infinity_and_beyond"
